@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rmalka93
 - 👀 I’m interested in progrminig
-- 🌱 I’m currently learning my first degree as a software engineer
+- 🌱 I’m currently finished my first degree as a software engineer
 - 💞️ I’m hoping you will find my code helpfull
 
 
